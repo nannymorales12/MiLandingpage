@@ -82,7 +82,7 @@ body {
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid var(--primary-color);
+    border: 5px solid #FC3881;
     margin-bottom: 1rem;
 }
 
@@ -213,3 +213,4 @@ body {
     }
 
 }
+
